@@ -78,10 +78,10 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">win</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<link href="COVER_ARTIST_WIKI_URL" refines="#artist" rel="schema:sameAs"/>
-		<link href="COVER_ARTIST_NACOAF_URI" refines="#artist" rel="schema:sameAs"/>
+		<dc:contributor id="artist">Paul de Vos</dc:contributor>
+		<meta property="file-as" refines="#artist">de Vos, Paul</meta>
+		<link href="https://en.wikipedia.org/wiki/Paul_de_Vos" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/nr92038348.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Derek Davis</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Davis, Derek</meta>
