@@ -53,9 +53,12 @@
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Drama</meta>
-		<meta property="schema:abstract">DESCRIPTION</meta>
+		<meta property="schema:genre">Satire</meta>
+		<meta property="schema:abstract">Two Athenians persuade the birds to build them a new city in the sky.</meta>
 		<dc:description>
-			LONG_DESCRIPTION
+			&lt;p&gt;Two Athenians, lead by a crow and a jay sold to them as guides, have walked a long way away from the homeland because they’re fed up with the constant law suits. Finding the noble Epops, a talking hoopoe, they hatch a plan to build with the birds a new city in the clouds where society will be better. The city though, floating as it does in the sky, stops the smoke from burnt sacrifices reaching the gods and incurs their wrath.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Birds&lt;/i&gt; has most of &lt;a href="https://standardebooks.org/ebooks/aristophanes"&gt;Aristophanes’&lt;/a&gt; common tropes: satire of the famous figures of Athens, puns, and an unbelievable scenario. Although regularly performed to this day, its biggest impact in modern times is probably its contribution to the English language of the phrase “cloud cuckoo land,” a direct translation of the name given to the floating city of the birds.&lt;/p&gt;
+			&lt;p&gt;This edition of &lt;i&gt;The Birds&lt;/i&gt; is based on the translation and numerous annotations first published by The Athenian Society in 1912. While never confirmed, it’s widely agreed that the translator in question was &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt;, who was a society member and accomplished translator of ancient Greek.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3013</dc:source>
